@@ -1,0 +1,39 @@
+# Main Title
+main:
+  header:
+    title : "Bastide Saint-Pierre Noyer" # Title Text
+    description : "Bastide de charactère, au coeur de la Provence, au pied de la Sainte-Baume, à proximité de Marseille et des plages de la Méditérranée." # Title Desc
+    button:
+      text: "En savoir plus" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "A propos de nous"
+  desc: "Nous sommes Bernard et Anne et nous habitons cette bastide familiale depuis 2009. Nous avons rénové reçemment la maison principale pour la mettre 
+  à disposition des vacanciers et des télétravaileurs qui veulent profiter de la nature. La maison est au pied du massif de la Sainte-Baume, parc naturl régional. De nombreuses escurssions sont disponible à 
+  partir de la bastide, sans besoin de prendre la voiture. Vous pouvez randonner jusqu'au sources de l'huveaune, la chapelle Saint-Clair ou même arriver à la grotte de la Sainte-Baume 
+  en marchant sur des sentiers au mileu de la forêt, sans rencontrer une seule habitation."
+  button:
+    enable: true
+    text: "Button"
+    url: "#"
+  image: "assets/img/jardin.jpg"
+
+projects:
+  card1:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/cuisine.jpg"
+  card3:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/2eme.jpg"
+  card4:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/chambre1.jpg"
