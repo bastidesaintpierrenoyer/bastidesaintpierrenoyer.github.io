@@ -10,10 +10,7 @@ main:
 # About
 about:
   title: "A propos de nous"
-  desc: "Nous sommes Bernard et Anne et nous habitons cette bastide familiale depuis 2009. Nous avons rénové reçemment la maison principale pour la mettre 
-  à disposition des vacanciers et des télétravaileurs qui veulent profiter de la nature. La maison est au pied du massif de la Sainte-Baume, parc naturl régional. De nombreuses escurssions sont disponible à 
-  partir de la bastide, sans besoin de prendre la voiture. Vous pouvez randonner jusqu'au sources de l'huveaune, la chapelle Saint-Clair ou même arriver à la grotte de la Sainte-Baume 
-  en marchant sur des sentiers au mileu de la forêt, sans rencontrer une seule habitation."
+  desc: "Nous sommes Bernard et Anne et nous habitons cette bastide familiale depuis 2009. Nous avons rénové récemment la maison principale pour la mettre à disposition des vacanciers et des télétravailleurs qui veulent profiter de la nature. La maison est au pied du massif de la Sainte-Baume, parc naturel régional. De nombreuses excursions sont disponibles à partir de la bastide, sans besoin de prendre la voiture. Vous pouvez randonner jusqu'aux sources de l'huveaune, la chapelle Saint-Clair ou même arriver à la grotte de la Sainte-Baume  marchant sur des sentiers au milieu de la forêt, sans rencontrer une seule habitation."
   button:
     enable: true
     text: "Button"
