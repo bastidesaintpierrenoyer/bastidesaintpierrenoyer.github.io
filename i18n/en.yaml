@@ -1,0 +1,41 @@
+- id: about
+  translation: "About"
+
+- id: projects
+  translation: "The Bastide"
+
+- id: contact
+  translation: "Contact"
+
+- id: contact_address
+  translation: "Address"
+
+- id: contact_email
+  translation: "Email"
+
+- id: contact_phone
+  translation: "Phone"
+
+- id: signup_title
+  translation: "Book your stay now!"
+
+- id: signup_subtitle
+  translation: "Contact us to check availability and reserve your week in Provence."
+
+- id: contact_cta
+  translation: "Send us an email"
+
+- id: contact_copy
+  translation: "Copy email"
+
+- id: email_subject
+  translation: "Booking request - Bastide Saint-Pierre Noyer"
+
+- id: email_body
+  translation: "Hello Bernard and Anne,\n\nI would like to book your bastide for the week of ____ to ____.\nWe would be ____ guests.\n\nName: ____\nEmail: ____\nPhone: ____\n\nMessage:\n\n\nBest regards,"
+
+- id: copyright
+  translation: "All rights reserved"
+
+- id: lang_switch
+  translation: "Français"
