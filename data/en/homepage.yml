@@ -9,22 +9,22 @@ main:
 about:
   title: "About us"
   desc: "We are Bernard and Anne, and we have lived in this family bastide since 2009. We recently renovated the main house to make it available to holidaymakers and remote workers who want to enjoy nature. The house is at the foot of the Sainte-Baume massif, a regional natural park. Many excursions are available from the bastide without needing a car. You can hike to the sources of the Huveaune, the Saint-Clair chapel, or even reach the Sainte-Baume cave by walking on forest trails without encountering a single dwelling."
-  image: "assets/img/jardin.jpg"
+  image: "/assets/img/jardin.jpg"
 
 projects:
   card1:
     title: "The garden"
     text: "A tree-filled garden with shaded terrace, perfect for outdoor meals and relaxing in the Provençal sun."
-    img: "assets/img/bg-masthead.jpg"
+    img: "/assets/img/bg-masthead.jpg"
   card2:
     title: "The kitchen"
     text: "A well-equipped and functional kitchen, ideal for preparing meals with local products from Saint-Zacharie."
-    img: "assets/img/cuisine.jpg"
+    img: "/assets/img/cuisine.jpg"
   card3:
     title: "The bedrooms"
     text: "Comfortable and spacious bedrooms with garden and wooded hill views for peaceful nights."
-    img: "assets/img/chambre1.jpg"
+    img: "/assets/img/chambre1.jpg"
   card4:
     title: "The setting"
     text: "Located in a preserved natural environment, the bastide offers an authentic setting for restorative holidays in Provence."
-    img: "assets/img/2eme.jpg"
+    img: "/assets/img/2eme.jpg"

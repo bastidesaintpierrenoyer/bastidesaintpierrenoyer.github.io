@@ -9,22 +9,22 @@ main:
 about:
   title: "À propos de nous"
   desc: "Nous sommes Bernard et Anne et nous habitons cette bastide familiale depuis 2009. Nous avons rénové récemment la maison principale pour la mettre à disposition des vacanciers et des télétravailleurs qui veulent profiter de la nature. La maison est au pied du massif de la Sainte-Baume, parc naturel régional. De nombreuses excursions sont disponibles à partir de la bastide, sans besoin de prendre la voiture. Vous pouvez randonner jusqu'aux sources de l'Huveaune, la chapelle Saint-Clair ou même arriver à la grotte de la Sainte-Baume en marchant sur des sentiers au milieu de la forêt, sans rencontrer une seule habitation."
-  image: "assets/img/jardin.jpg"
+  image: "/assets/img/jardin.jpg"
 
 projects:
   card1:
     title: "Le jardin"
     text: "Un jardin arboré avec terrasse ombragée, parfait pour les repas en plein air et la détente au soleil provençal."
-    img: "assets/img/bg-masthead.jpg"
+    img: "/assets/img/bg-masthead.jpg"
   card2:
     title: "La cuisine"
     text: "Cuisine équipée et fonctionnelle, idéale pour préparer vos repas avec les produits locaux de Saint-Zacharie."
-    img: "assets/img/cuisine.jpg"
+    img: "/assets/img/cuisine.jpg"
   card3:
     title: "Les chambres"
     text: "Chambres confortables et spacieuses, avec vue sur le jardin et la colline arborée pour des nuits paisibles."
-    img: "assets/img/chambre1.jpg"
+    img: "/assets/img/chambre1.jpg"
   card4:
     title: "Le cadre"
     text: "Située dans un environnement naturel préservé, la bastide offre un cadre authentique pour des vacances ressourçantes en Provence."
-    img: "assets/img/2eme.jpg"
+    img: "/assets/img/2eme.jpg"

@@ -14,7 +14,7 @@ locale = 'fr-fr'
     weight = 2
 
 [params]
-logo = "assets/img/logo.webp"
+logo = "/assets/img/logo.webp"
 favicon = "assets/favicon.png"
 address = "Quartier Saint-Pierre, 83640 Saint-Zacharie"
 phone = ""
